@@ -1,0 +1,35 @@
+ABC123, Honda, Civic, 2019, 22000, 1001, 1901, Y, N, Y
+DEF456, Toyota, Corolla, 2021, 23000, 1002, 1902, N, Y, N
+GHI789, Ford, Focus, 2018, 20000, 1002, 1902, Y, Y, Y
+JKL012, Chevrolet, Malibu, 2020, 25000, 1003, 1903, N, N, N
+MNO345, BMW, 3 Series, 2017, 30000, 1003, 1903, Y, Y, N
+PQR678, Audi, A4, 2022, 35000, 1004, 1904, N, N, Y
+STU901, Mercedes, C-Class, 2016, 40000, 1005, 1905, Y, N, N
+VWX234, Hyundai, Elantra, 2021, 22000, 1006, 1906, N, Y, Y
+YZA567, Kia, Optima, 2019, 21000, 1007, 1907, Y, N, N
+BCD890, Subaru, Impreza, 2020, 24000, 1008, 1908, N, Y, N
+EFG123, Volkswagen, Golf, 2021, 23000, 1009, 1909, Y, Y, Y
+HIJ456, Nissan, Altima, 2018, 22000, 1010, 1910, N, N, N
+KLM789, Honda, Accord, 2019, 26000, 1011, 1911, Y, N, Y
+NOP012, Toyota, Camry, 2017, 27000, 1012, 1912, N, Y, N
+QRS345, Mazda, 6, 2020, 28000, 1013, 1913, Y, Y, N
+TUV678, Ford, Fusion, 2016, 19000, 1014, 1914, N, N, Y
+WXY901, Chevrolet, Cruze, 2021, 21000, 1015, 1915, Y, N, N
+ZAB234, BMW, 5 Series, 2019, 34000, 1016, 1916, N, Y, Y
+CDE567, Audi, A6, 2022, 36000, 1017, 1917, Y, N, N
+FGH890, Mercedes, E-Class, 2016, 42000, 1018, 1918, N, Y, N
+IJK123, Hyundai, Sonata, 2021, 25000, 1019, 1919, Y, Y, Y
+LMN456, Kia, Sportage, 2019, 23000, 1020, 1920, N, N, N
+OPQ789, Subaru, Forester, 2020, 27000, 1021, 1921, Y, N, Y
+RST012, Volkswagen, Jetta, 2018, 22000, 1022, 1922, N, Y, N
+UVW345, Nissan, Maxima, 2021, 29000, 1023, 1923, Y, Y, N
+XYZ678, Honda, CR-V, 2019, 25000, 1024, 1924, N, N, Y
+ACD901, Toyota, RAV4, 2017, 26000, 1025, 1925, Y, N, N
+BEF234, Ford, Escape, 2020, 27000, 1026, 1926, N, Y, N
+CGH567, Chevrolet, Traverse, 2021, 30000, 1027, 1927, Y, Y, Y
+DJK890, BMW, X3, 2018, 32000, 1028, 1928, N, N, N
+EFG123, Audi, Q5, 2019, 35000, 1029, 1929, Y, N, Y
+HIK456, Mercedes, GLC, 2022, 37000, 1030, 1930, N, Y, N
+LMO789, Hyundai, Tucson, 2016, 22000, 1031, 1931, Y, Y, Y
+PQR012, Kia, Sorento, 2021, 29000, 1032, 1932, N, N, N
+STU345, Subaru, Outback, 2019, 28000, 1032, 1932, Y, N, Y

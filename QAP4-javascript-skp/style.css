@@ -1,0 +1,38 @@
+body {
+    background-color:  white;
+    margin: 5em;
+    line-height: 1.5em; 
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+
+
+h2 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #666;
+}
+
+h3 {
+    font-size: 16px;
+    font-weight: bold;
+    color: #999;
+}
+
+p {
+    margin: 1em 0;
+}
+h4 {
+    font-size: 14px;
+    font-weight: bold;
+    color: #999;
+}
+
+
